@@ -4,10 +4,10 @@
     ViewBag.Title = "Index";
 }
 
-<h2>Index</h2>
+<h2>Users registered for this event</h2>
 
 <p>
-    @Html.ActionLink("Create New Register", "CreateRegistration")
+    @Html.ActionLink("Register new user", "CreateRegistration")
 </p>
 <table class="table">
     <tr>
@@ -41,8 +41,8 @@
             @Html.DisplayFor(modelItem => item.PaymentStatus)
         </td>
         <td>
-            @Html.ActionLink("Edit", "Edit", new { RegistrationId=item.RegistrationID }) |
-            @Html.ActionLink("Delete", "Delete", new { RegistrationId=item.RegistrationID })
+            @Html.ActionLink("Edit", "EditRegistrationView", new { RegistrationId=item.RegistrationID }) |
+            @Html.ActionLink("Delete", "DeleteRegistration", new { RegistrationId=item.RegistrationID })
         </td>
     </tr>
 }

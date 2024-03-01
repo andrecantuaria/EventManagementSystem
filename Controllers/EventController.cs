@@ -33,17 +33,17 @@ namespace EventManagementSystem.Controllers
         [HttpPost]
         public ActionResult CreateEventView(Event events)
         {
-            EventService es = new EventService(); // Criando uma instância para interagir com a lógica de negócios
+            EventService es = new EventService(); 
             if (es.AddEventServices(events))
             {
-                ViewBag.Message = "Event added successfully"; // Se o evento for adicionado com sucesso, defina a mensagem de sucesso na ViewBag
+                ViewBag.Message = "Event added successfully"; 
             }
             else
             {
-                ViewBag.Message = "Failed to add event"; // Se a adição do evento falhar, defina uma mensagem de erro na ViewBag
+                ViewBag.Message = "Failed to add event"; 
             }
 
-            return View(); // Retorna a View para que o usuário possa ver a mensagem de sucesso ou erro
+            return View(); 
         }
 
 
