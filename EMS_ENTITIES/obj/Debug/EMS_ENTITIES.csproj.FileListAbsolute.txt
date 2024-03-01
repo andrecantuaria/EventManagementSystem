@@ -1,0 +1,6 @@
+C:\Users\andre\source\repos\EMS_ENTITIES\bin\Debug\EMS_ENTITIES.dll
+C:\Users\andre\source\repos\EMS_ENTITIES\bin\Debug\EMS_ENTITIES.pdb
+C:\Users\andre\source\repos\EMS_ENTITIES\obj\Debug\EMS_ENTITIES.csproj.AssemblyReference.cache
+C:\Users\andre\source\repos\EMS_ENTITIES\obj\Debug\EMS_ENTITIES.csproj.CoreCompileInputs.cache
+C:\Users\andre\source\repos\EMS_ENTITIES\obj\Debug\EMS_ENTITIES.dll
+C:\Users\andre\source\repos\EMS_ENTITIES\obj\Debug\EMS_ENTITIES.pdb
