@@ -1,0 +1,11 @@
+C:\Users\andre\source\repos\EMS_BLL\bin\Debug\EMS_BLL.dll
+C:\Users\andre\source\repos\EMS_BLL\bin\Debug\EMS_BLL.pdb
+C:\Users\andre\source\repos\EMS_BLL\obj\Debug\EMS_BLL.csproj.AssemblyReference.cache
+C:\Users\andre\source\repos\EMS_BLL\obj\Debug\EMS_BLL.csproj.CoreCompileInputs.cache
+C:\Users\andre\source\repos\EMS_BLL\obj\Debug\EMS_BLL.dll
+C:\Users\andre\source\repos\EMS_BLL\obj\Debug\EMS_BLL.pdb
+C:\Users\andre\source\repos\EMS_BLL\bin\Debug\EMS_DAL.dll
+C:\Users\andre\source\repos\EMS_BLL\bin\Debug\EMS_ENTITIES.dll
+C:\Users\andre\source\repos\EMS_BLL\bin\Debug\EMS_DAL.pdb
+C:\Users\andre\source\repos\EMS_BLL\bin\Debug\EMS_ENTITIES.pdb
+C:\Users\andre\source\repos\EMS_BLL\obj\Debug\EMS_BLL.csproj.CopyComplete
